@@ -1,0 +1,3 @@
+True\Predicted	No	Yes	Class error
+No	185	47	0.202586206896552
+Yes	21	262	0.0742049469964664
