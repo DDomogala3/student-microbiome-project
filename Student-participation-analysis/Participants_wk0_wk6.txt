@@ -1,0 +1,7 @@
+"num"-"weeks"-"participated"	"University"
+
+UniDropouts=("U","CU","CU","CU","NCS","CU","U","CU","CU","U","U","U","NCS","NCS","NCS","NCS","NCS","U","NCS","NCS","NCS","NCS","NCS","U","NCS","CU","U","U","CU","U","U","NCS","CU","CU","CU")
+
+num-weeks-participated	Age
+
+Age_dropout<-c(20,26,18,21,23,22,21,21,19,21,23,24,28,18,19,22,22,21,21,20,21,23,20,21,21,1)
